@@ -3,6 +3,7 @@
 ## Oahu Roleplay
 
 Welcome to the Oahu Roleplay organization on GitHub! This is a tool we use internally to support the development of Oahu Roleplay.
+As well as contribute to various open-source projects to support other FiveM servers.
 
 #### What is Oahu Roleplay?
 
