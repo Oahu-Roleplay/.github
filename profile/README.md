@@ -16,13 +16,3 @@ Website/Forums: https://oahuroleplay.com
 Discord Server: https://discord.com/DrQd3wkzVm
 
 Twitter/X: https://twitter.com/oahuroleplay
-
-## Media
-Here are some previews of what you can expect within Oahu Roleplay:
-![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fhomepage%2Flspd-picture1.png&w=640&q=75)
-
-![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fhomepage%2Fpacificbank-heist1.png&w=640&q=75)
-
-![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fhomepage%2Fvehicles-image.png&w=640&q=75)
-
-![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fmarketing%2Fyellowjack-bar.png&w=640&q=75)
