@@ -19,10 +19,10 @@ Twitter/X: https://twitter.com/oahuroleplay
 
 ## Media
 Here are some previews of what you can expect within Oahu Roleplay:
-![](https://cdn.thefrostcloud.com/resources/oahurp/images/newimages/image1-transformed.png)
+![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fhomepage%2Flspd-picture1.png&w=640&q=75)
 
-![](https://cdn.thefrostcloud.com/resources/oahurp/images/newimages/YellowjackBarScene.png)
+![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fhomepage%2Fpacificbank-heist1.png&w=640&q=75)
 
-![](https://cdn.thefrostcloud.com/resources/oahurp/images/newimages/BCSO%20LSPD%20SASP/image2.png)
+![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fhomepage%2Fvehicles-image.png&w=640&q=75)
 
-![](https://cdn.thefrostcloud.com/resources/oahurp/images/newimages/DrugdealScene/Graded/Untitled%20Export/image2.jpg)
+![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fmarketing%2Fyellowjack-bar.png&w=640&q=75)
