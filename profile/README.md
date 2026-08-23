@@ -1,4 +1,4 @@
-![](https://cdn.thefrostcloud.com/resources/oahurp/images/miscellaneous/FiveMServerBanner.jpg)
+![](https://www.oahuroleplay.com/_next/image?url=%2Fassets%2Fhomepage%2Fsafr-vespuccistation.png&w=1920&q=75)
 
 ## Oahu Roleplay
 
